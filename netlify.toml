@@ -4,13 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "18"
+  VITE_API_URL = ""
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-
-[dev]
-  command = "npm run dev"
-  port = 5173
-  publish = "dist"
