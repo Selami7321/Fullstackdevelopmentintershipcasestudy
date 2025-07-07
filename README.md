@@ -189,7 +189,7 @@ The application is fully responsive with breakpoints:
 
 ## 🌐 Live Demo
 
-- **Frontend**: [Your Netlify URL]
+- **Frontend**: [https://casestudyselamicetinn.netlify.app/]
 - **Backend API**: [Your Backend URL]
 
 ## 📊 Performance Features
